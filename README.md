@@ -25,7 +25,7 @@
 <p> Ao final será exibido uma mensagem: O Herói ${nomeHeroi} está no nível ${nivelHeroi} ! </p>
 
 <div align = "center">
-  <img src="" alt="Imagem ilustrativa da mensagem"> 
+  <img src="https://github.com/Alxcostta/Classificador-de-nivel-de-Heroi/blob/main/imagem%20ilustrativa%20mensagem.png" alt="Imagem ilustrativa da mensagem"> 
 </div>
 
 
